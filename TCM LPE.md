@@ -1,0 +1,10 @@
+1. [[Resources]]
+2. [[Initial Enumeration]]
+	1. [[System Enumeration]]
+	2. [[User Enumeration]]
+	3. [[Network Enumeration]]
+	4. [[Password Hunting]]
+3. [[Automated Tools]]
+4. [[Escalation Paths]]
+	1. [[Kernel Exploits]]
+	2. 

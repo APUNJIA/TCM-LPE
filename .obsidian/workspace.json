@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "3d8cb5c7da68e8f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f0ffdb8972f073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c474810a05c921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automated Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automated Tools"
+            }
+          },
+          {
+            "id": "9204c09a4d097cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM LPE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCM LPE"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a3e1db139720c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20e6abe21042841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33dbc88129256fb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd33e7e5a43ad49a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da8735bd112ede1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "508495cd68fda2ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f59166d63ff7c3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2415333991f22d5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TCM LPE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TCM LPE"
+            }
+          },
+          {
+            "id": "70a9f6330a40da22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TCM LPE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TCM LPE"
+            }
+          },
+          {
+            "id": "c1ee9c17743b0919",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a6e284263522b35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TCM LPE.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TCM LPE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9204c09a4d097cec",
+  "lastOpenFiles": [
+    "Escalation Paths/Kernel Exploits.md",
+    "Embeds",
+    "Embeds/Pasted image 20241128101709.png",
+    "TCM LPE.md",
+    "Escalation Paths/Escalation Paths.md",
+    "Automated Tools.md",
+    "Escalation Paths",
+    "Resources.md",
+    "Initial Enumeration/Password Hunting.md",
+    "Initial Enumeration/Initial Enumeration.md",
+    "Initial Enumeration/System Enumeration.md",
+    "Initial Enumeration/User Enumeration.md",
+    "Initial Enumeration/Network Enumeration.md",
+    "Initial Enumeration"
+  ]
+}
