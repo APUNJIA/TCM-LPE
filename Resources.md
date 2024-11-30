@@ -11,4 +11,7 @@ Sushant 747's Guide (Country dependant - may need VPN) - [https://sushant747.gi
 Linux PrivEsc Lab - [https://tryhackme.com/room/linuxprivescarena](https://tryhackme.com/room/linuxprivescarena)
 
 TryHackMe - [https://tryhackme.com/](https://tryhackme.com/)
+PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings
+
+GTFOBins - [https://gtfobins.github.io/](https://gtfobins.github.io/)
 

@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM LPE.md",
+                "file": "Escalation Paths/Kernel Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCM LPE"
+              "title": "Kernel Exploits"
+            }
+          },
+          {
+            "id": "f0b8ecf20cfaf107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escalation Paths/Sudo/Sudo Shell Escaping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sudo Shell Escaping"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,16 +191,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9204c09a4d097cec",
+  "active": "f0b8ecf20cfaf107",
   "lastOpenFiles": [
+    "Escalation Paths/Sudo/Sudo.md",
+    "Escalation Paths/Sudo/LD_PRELOAD.md",
+    "Escalation Paths/Sudo/Intended Functionality.md",
+    "Escalation Paths/Sudo/CVE-2019-18634.md",
+    "Escalation Paths/Sudo/CVE-2019-14287.md",
+    "Escalation Paths/Sudo/Challenge.md",
+    "Escalation Paths/Passwords and File Permissions/Weak File Permissions.md",
+    "Escalation Paths/Passwords and File Permissions/Stored Passwords.md",
+    "Escalation Paths/Passwords and File Permissions/SSH Keys.md",
+    "Escalation Paths/Passwords and File Permissions/Passwords and File Permissions.md",
+    "Escalation Paths/Sudo/Sudo Shell Escaping.md",
     "Escalation Paths/Kernel Exploits.md",
+    "Automated Tools.md",
+    "Resources.md",
+    "TCM LPE.md",
+    "Escalation Paths/Sudo",
+    "Escalation Paths/Escalation Paths.md",
+    "Escalation Paths/Passwords and File Permissions",
     "Embeds",
     "Embeds/Pasted image 20241128101709.png",
-    "TCM LPE.md",
-    "Escalation Paths/Escalation Paths.md",
-    "Automated Tools.md",
     "Escalation Paths",
-    "Resources.md",
     "Initial Enumeration/Password Hunting.md",
     "Initial Enumeration/Initial Enumeration.md",
     "Initial Enumeration/System Enumeration.md",

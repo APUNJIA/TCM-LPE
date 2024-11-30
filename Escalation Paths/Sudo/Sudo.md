@@ -1,0 +1,6 @@
+1. [[Sudo Shell Escaping]]
+2. [[Intended Functionality]]
+3. [[LD_PRELOAD]]
+4. [[Challenge]]
+5. [[CVE-2019-14287]]
+6. [[CVE-2019-18634]]
