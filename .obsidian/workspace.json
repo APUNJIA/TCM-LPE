@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "3d8cb5c7da68e8f7",
+    "id": "dccd81fe502b6fd5",
     "type": "split",
     "children": [
       {
-        "id": "d4f0ffdb8972f073",
+        "id": "7ca794ee970cc3a4",
         "type": "tabs",
         "children": [
           {
-            "id": "88c474810a05c921",
+            "id": "a8f4ab663bf7698a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automated Tools.md",
+                "file": "Escalation Paths/Scheduled Tasks/Scheduled Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automated Tools"
-            }
-          },
-          {
-            "id": "9204c09a4d097cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escalation Paths/Kernel Exploits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kernel Exploits"
-            }
-          },
-          {
-            "id": "f0b8ecf20cfaf107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escalation Paths/Sudo/Sudo Shell Escaping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sudo Shell Escaping"
+              "title": "Scheduled Tasks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7a3e1db139720c99",
+    "id": "3ed2a695902d4f66",
     "type": "split",
     "children": [
       {
-        "id": "b20e6abe21042841",
+        "id": "41ac4f1ccc5afd80",
         "type": "tabs",
         "children": [
           {
-            "id": "33dbc88129256fb2",
+            "id": "d9a8c8c22399f91d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +47,7 @@
             }
           },
           {
-            "id": "fd33e7e5a43ad49a",
+            "id": "1e4745958d03baf2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +64,7 @@
             }
           },
           {
-            "id": "da8735bd112ede1c",
+            "id": "7988e4e4aaea39a1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
-    "id": "508495cd68fda2ef",
+    "id": "575d4a2c0301cce4",
     "type": "split",
     "children": [
       {
-        "id": "f59166d63ff7c3ed",
+        "id": "51e1a591f4b84236",
         "type": "tabs",
         "children": [
           {
-            "id": "2415333991f22d5f",
+            "id": "8fb7f99dd5cf1052",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM LPE.md",
+                "file": "Escalation Paths/Sudo/LD_PRELOAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TCM LPE"
+              "title": "Backlinks for LD_PRELOAD"
             }
           },
           {
-            "id": "70a9f6330a40da22",
+            "id": "fbf90efa34d3362c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM LPE.md",
+                "file": "Escalation Paths/Sudo/LD_PRELOAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TCM LPE"
+              "title": "Outgoing links from LD_PRELOAD"
             }
           },
           {
-            "id": "c1ee9c17743b0919",
+            "id": "93ecdb24fc88d4d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,15 +134,15 @@
             }
           },
           {
-            "id": "1a6e284263522b35",
+            "id": "9578e0aa4c7ffa32",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM LPE.md"
+                "file": "Escalation Paths/Sudo/LD_PRELOAD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TCM LPE"
+              "title": "Outline of LD_PRELOAD"
             }
           }
         ]
@@ -191,34 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0b8ecf20cfaf107",
+  "active": "a8f4ab663bf7698a",
   "lastOpenFiles": [
-    "Escalation Paths/Sudo/Sudo.md",
-    "Escalation Paths/Sudo/LD_PRELOAD.md",
-    "Escalation Paths/Sudo/Intended Functionality.md",
+    "Escalation Paths/Capabilities.md",
+    "Escalation Paths/Other SUID Escalation/Binary Symlinks.md",
+    "Escalation Paths/Other SUID Escalation/Environmental Variables.md",
+    "Escalation Paths/Other SUID Escalation/Other SUID Escalation.md",
+    "Escalation Paths/Other SUID Escalation/Shared Object Injection.md",
+    "Escalation Paths/Escalation Paths.md",
+    "Escalation Paths/Scheduled Tasks/Scheduled Tasks.md",
+    "TCM LPE.md",
+    "Escalation Paths/Scheduled Tasks",
+    "Escalation Paths/SUID.md",
+    "Escalation Paths/Other SUID Escalation",
     "Escalation Paths/Sudo/CVE-2019-18634.md",
     "Escalation Paths/Sudo/CVE-2019-14287.md",
     "Escalation Paths/Sudo/Challenge.md",
-    "Escalation Paths/Passwords and File Permissions/Weak File Permissions.md",
-    "Escalation Paths/Passwords and File Permissions/Stored Passwords.md",
-    "Escalation Paths/Passwords and File Permissions/SSH Keys.md",
-    "Escalation Paths/Passwords and File Permissions/Passwords and File Permissions.md",
+    "Escalation Paths/Sudo/LD_PRELOAD.md",
+    "Escalation Paths/Sudo/Intended Functionality.md",
     "Escalation Paths/Sudo/Sudo Shell Escaping.md",
-    "Escalation Paths/Kernel Exploits.md",
-    "Automated Tools.md",
-    "Resources.md",
-    "TCM LPE.md",
-    "Escalation Paths/Sudo",
-    "Escalation Paths/Escalation Paths.md",
-    "Escalation Paths/Passwords and File Permissions",
-    "Embeds",
-    "Embeds/Pasted image 20241128101709.png",
-    "Escalation Paths",
-    "Initial Enumeration/Password Hunting.md",
-    "Initial Enumeration/Initial Enumeration.md",
-    "Initial Enumeration/System Enumeration.md",
-    "Initial Enumeration/User Enumeration.md",
-    "Initial Enumeration/Network Enumeration.md",
-    "Initial Enumeration"
+    "Escalation Paths/Sudo/Sudo.md"
   ]
 }
